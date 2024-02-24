@@ -1,6 +1,6 @@
 # Live Preview: https://clone-11518.web.app/
 
-Coded by - [Mohamed Gamal]
+Coded by => ( Mohamed Gamal )
 ![](/Capture.jpg)
 
 # Getting Started with Create React App
