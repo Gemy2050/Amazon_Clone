@@ -1,5 +1,7 @@
 # Live Preview: https://clone-11518.web.app/
 
+## Firebase Cloud Functions Working Only On Localhost.
+
 Coded by => ( Mohamed Gamal )
 ![](/Capture.jpg)
 
